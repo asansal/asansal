@@ -14,8 +14,9 @@ I'm also specialized in 🔬 Microbiology and 📈 Data Analysis (Check out my [
   - 🧬 bioinformatics tools for: QC, trimming, alignment, assembly (with reference/de novo), gene expression (dseq2, edgeR,...), proteomics (Peaks)...
 - 📚 I’m currently focusing on learning ML (Machine Learning)
 
-If you want to contact me, here's my LinkedIn and my e-mail, I'll be happy to hear from you:
+If you want to contact me, here's my LinkedIn, I'll be happy to hear from you:
 
 🌐 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador/)
-📩 [e-mail](asansal@outlook.es)
+
+Or you can send me an e-mail: 📩 asansal@outlook.es
 
