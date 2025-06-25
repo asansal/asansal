@@ -3,6 +3,7 @@
 Let me introduce myself, I'm **Alejandro Sanchez**:
 
 🪴 **Bioinformatician**
+
 💻 **Data Scientist** (junior)
 
 I'm also specialized in 🔬 Microbiology and 📈 Data Analysis (Check out my [Tableau](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes))
