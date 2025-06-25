@@ -18,5 +18,7 @@ If you want to contact me, here's my LinkedIn, I'll be happy to hear from you:
 
 🌐 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador/)
 
-Or you can send me an e-mail: 📩 asansal@outlook.es
+Or you can send me an e-mail: 
+
+📩 asansal@outlook.es
 
