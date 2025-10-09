@@ -1,24 +1,45 @@
-## Welcome to my GitHub profile! 👋 
+## 👋 Hi, I'm Alejandro Sánchez  
+### Data Scientist | Machine Learning & AI | Bioinformatics 📊🧬  
 
-Let me introduce myself, I'm **Alejandro Sanchez**:
+Welcome to my GitHub!  
+I'm a data-driven scientist with a background in **Bioinformatics and Molecular Biology**, currently focusing on **Data Science and Artificial Intelligence**.  
+I enjoy transforming complex datasets into meaningful insights using **machine learning, statistics, and data visualization**.  
 
-🪴 **Bioinformatician**
+---
 
-💻 **Data Scientist** (junior)
+### 💡 What I Do  
+- 🧠 **Machine Learning & AI** — developing predictive models and working on collaborative ML projects.  
+- 📊 **Data Analytics** — exploring data cleaning, feature engineering, and visualization with Python, SQL and visualization tools as Tableau or Power BI.  
+- 💻 **Programming** — experienced with Python, R, SQL, and UNIX-based environments.  
+- 🧬 **Bioinformatics** — previous experience in RNA-Seq, genome annotation, and proteogenomics research.  
 
-I'm also specialized in 🔬 Microbiology and 📈 Data Analysis (Check out my [Tableau](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes))
+---
 
-- 🔭 I’m currently working on [Gene Regulation in Leishmania](https://www.cbm.uam.es/index.php/scientific-programs/genome-dynamics-and-function/genome-decoding/regulation-of-gene-expression-in-leishmania/) at the CBM, in Madrid (Spain). Our code is published in our [repositories](https://github.com/CBMSO-L302)
-- 📝 Experience with:
-  - ⌨️ programming languages: R, Python, Unix, SQL
-  - 🧬 bioinformatics tools for: QC, trimming, alignment, assembly (with reference/de novo), gene expression (dseq2, edgeR,...), proteomics (Peaks)...
-- 📚 I’m currently focusing on learning ML (Machine Learning)
+### 🔭 Current Projects  
+- 🚗 **BMW Dataset Cleaning** — collaborative project for advanced data preprocessing, outlier detection, and feature engineering.  
+- 🦠 **MS Malware Prediction** — machine learning project using supervised learning techniques (Random Forests, XGBoost, feature selection).  
+- 📈 **Data Visualization** — dashboards and storytelling with [Tableau](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes) and Power BI.  
 
-If you want to contact me, here's my LinkedIn, I'll be happy to hear from you:
+---
 
-🌐 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador/)
+### 🧩 Past Research  
+I previously worked as a **Bioinformatics Research Assistant** at the **Centro de Biología Molecular Severo Ochoa (CBM, Madrid)**, focusing on transcriptomics and proteogenomics in *Leishmania* species using RNA-Seq, Ribo-Seq, and ONT data.  
+You can find related scripts and workflows in the [CBMSO-L302 repositories](https://github.com/CBMSO-L302).  
 
-Or you can send me an e-mail: 
+---
 
-📩 asansal@outlook.es
+### 🎯 Currently Learning  
+- Advanced ML techniques (Scikit-learn, TensorFlow, XGBoost)  
+- Cloud data workflows and SQL optimization  
+- MLOps principles for reproducible machine learning  
 
+---
+
+### 📫 Let's Connect  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador/)  
+- 📩 [asansal@outlook.es](mailto:asansal@outlook.es)  
+- 💻 [GitHub Projects](https://github.com/asansal)  
+
+---
+
+⭐ *“Analytics in my genes”*  
