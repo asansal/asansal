@@ -39,6 +39,7 @@ Technologies: Python, Pandas, Scikit-learn, Power BI, SQL.
 **2. Machine Learning & AI Projects**
 
 [ML Data Cleaning and Clasification Projects](https://github.com/asansal/ML-data-cleaning-and-classification-projects)
+
 [Road Accident Prediction - Kaggle](https://github.com/asansal/road-accident-risk-prediction)
 
 Description: A collection of applied projects focusing on different ML domains.
