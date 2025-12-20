@@ -1,8 +1,9 @@
 
 ## 👋 Hi, I'm Alejandro
-## Welcome to my GitHub profile
 
 ### Data Science | Data Analysis | Bioinformatics
+
+**Welcome to my GitHub profile!**
 
 I'm a Data Scientist / Data Analyst with a +4-year foundation in Bioinformatics and Statistical Analysis. Transitioning from a scientific research background to business analytics and ML modelling.
 
