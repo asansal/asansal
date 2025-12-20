@@ -7,8 +7,6 @@
 
 I'm a Data Scientist / Data Analyst with a +4-year foundation in Bioinformatics and Statistical Analysis. Transitioning from a scientific research background to business analytics and ML modelling.
 
----
-
 - 🧠 **Machine Learning & AI** — Predictive ML models and AI projects.
 - 📊 **Data Analysis** — data cleaning, feature engineering, and visualization with Python, Tableau or Power BI.
 - 💻 **Programming** — Python, R, SQL, and UNIX-based environments.
@@ -32,6 +30,7 @@ A comprehensive, end-to-end project for a retail chain. The project covered the 
 
 - **Phase 4 (Business Strategy):** Designed a data-driven business solution for store sourcing and inventory management based on model outputs.
 
+---
 
 **2. Other ML & AI Projects**
 
@@ -43,6 +42,7 @@ A comprehensive, end-to-end project for a retail chain. The project covered the 
 
 Description: A collection of applied projects focusing on different ML / AI domains, like classification models (XGBoost, Random Forest)m data cleaning, preprocessing, predict outcomes, and feature engineering (e.g., BMW Dataset Cleaning, MS Malware Prediction).
 
+---
 
 ### 📈 Data Visualization
 
@@ -69,6 +69,8 @@ You can find related scripts and workflows in the [CBMSO-L302 repositories](http
 **Tools & Platforms**: Git, HPC/Slurm, Docker (Fundamentals), AWS (Fundamentals)
 
 **BI & Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+
+---
 
 📫 Let's Connect
 
