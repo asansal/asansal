@@ -1,6 +1,6 @@
 
 ## 👋 Hi, I'm Alejandro Sánchez  
-### Data Scientist | Machine Learning & AI | Bioinformatics 📊🧬  
+### Data Scientist | Data Analyst| Bioinformatics 📊🧬  
 
 I'm a Data Scientist with a +4-year foundation in Bioinformatics and Statistical Analysis. I specialize in bridging the gap between complex, high-volume data (from genomics to business) and actionable insights.
 
