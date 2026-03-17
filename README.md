@@ -6,7 +6,8 @@ Welcome to my GitHub profile. I am a Data Scientist with a strong foundation in 
 
 My core focus lies in Python-based ecosystems, transitioning complex data into clean, predictive, and interactive solutions.
 
-🌐 **[Explore my Interactive Portfolio & Streamlit Chatbot](https://asansal.streamlit.app)** — *Check out my personal website to interact directly with my custom AI chatbot and see my projects in action.*
+🌐 **[Explore my Interactive Portfolio & Streamlit Chatbot](https://asansal.streamlit.app)** — 
+*Check out my personal website to interact directly with my custom AI chatbot and see my projects in action.*
 
 ---
 
@@ -14,10 +15,12 @@ My core focus lies in Python-based ecosystems, transitioning complex data into c
 
 **Interactive Portfolio & AI Chatbot (Streamlit)**  
 [Repository Link](https://github.com/asansal/Personal_Website) | [Live Website](https://asansal.streamlit.app)
+
 I developed and deployed a personal portfolio website integrating a custom chatbot built with Streamlit. This project highlights my ability to not only train models but to deploy them into interactive, user-facing applications.
 
 **DSMarket: End-to-End Retail Data Science (Master's Thesis)**  
 [Repository Link](https://github.com/asansal/DS_market_Capstone)  
+
 A comprehensive project managing the full data lifecycle for a retail chain. Instead of isolated tasks, I handled everything from data ingestion and exploratory analysis (Power BI) to unsupervised clustering (K-Means) for product segmentation. The final phase involved developing and validating Time Series models to forecast regional sales, culminating in a data-driven strategy for inventory management.
 
 **Applied Machine Learning & AI Models**  
@@ -47,7 +50,7 @@ I was responsible for developing end-to-end ETL pipelines using Python, R, and B
 
 I am always open to discussing data-driven solutions, AI projects, or new professional opportunities. Feel free to reach out or explore my work through the links below:
 
-- 🌐 **Website & Chatbot:** [Insert link here]
+- 🌐 **Website & Chatbot:** [https://asansal.streamlit.app](https://asansal.streamlit.app)
 - 💼 **LinkedIn:** [alejandro-sanchez-salvador](https://www.linkedin.com/in/alejandro-sanchez-salvador/)
 - 📊 **Tableau Portfolio:** [View my Dashboards](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes)
 - 📩 **Email:** [asansal@outlook.es](mailto:asansal@outlook.es)
