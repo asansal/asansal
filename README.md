@@ -1,80 +1,53 @@
-
 ## 👋 Hi, I'm Alejandro
 
-### Data Science | Data Analysis | Bioinformatics
+**Data Scientist | Bioinformatician | Data Analyst**
 
-**Welcome to my GitHub profile!**
+Welcome to my GitHub profile. I am a Data Scientist with a strong foundation in Bioinformatics and Statistical Analysis. Over the past four years, I have worked extensively in rigorous scientific research across international and national environments (such as the Universität Konstanz and CBM-CSIC). I am now leveraging that analytical mindset, problem-solving drive, and technical expertise to build machine learning models, develop AI solutions, and extract actionable business insights.
 
-I'm a Data Scientist / Data Analyst with a +4-year foundation in Bioinformatics and Statistical Analysis. Transitioning from a scientific research background to business analytics and ML modelling.
+My core focus lies in Python-based ecosystems, transitioning complex data into clean, predictive, and interactive solutions.
 
-- 🧠 **Machine Learning & AI** — Predictive ML models and AI projects.
-- 📊 **Data Analysis** — data cleaning, feature engineering, and visualization with Python, Tableau or Power BI.
-- 💻 **Programming** — Python, R, SQL, and UNIX-based environments.
-- 🧬 **Bioinformatics** — RNA-Seq, RiboSeq, genome annotation, and proteogenomics research.
+🌐 **[Explore my Interactive Portfolio & Streamlit Chatbot](https://asansal.streamlit.app)** — *Check out my personal website to interact directly with my custom AI chatbot and see my projects in action.*
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
 
-**1. Capstone Project: "DSMarket" (End-to-End Retail Data Science) - Master's Thesis**
+**Interactive Portfolio & AI Chatbot (Streamlit)**  
+[Repository Link](https://github.com/asansal/Personal_Website) | [Live Website](https://asansal.streamlit.app)
+I developed and deployed a personal portfolio website integrating a custom chatbot built with Streamlit. This project highlights my ability to not only train models but to deploy them into interactive, user-facing applications.
 
-[DS Market - Capstone](https://github.com/asansal/DS_market_Capstone)
+**DSMarket: End-to-End Retail Data Science (Master's Thesis)**  
+[Repository Link](https://github.com/asansal/DS_market_Capstone)  
+A comprehensive project managing the full data lifecycle for a retail chain. Instead of isolated tasks, I handled everything from data ingestion and exploratory analysis (Power BI) to unsupervised clustering (K-Means) for product segmentation. The final phase involved developing and validating Time Series models to forecast regional sales, culminating in a data-driven strategy for inventory management.
 
-A comprehensive, end-to-end project for a retail chain. The project covered the full data lifecycle, from data ingestion and BI to predictive modeling and strategic deployment.
-
-- **Phase 1 (BI & EDA):** Performed EDA and built interactive dashboards in Power BI to identify key product/store performance metrics.
-
-- **Phase 2 (Unsupervised ML):** Implemented K-Means clustering to segment products and stores based on sales behavior.
-
-- **Phase 3 (Forecasting):** Developed and validated Time Series models to forecast sales across different regions.
-
-- **Phase 4 (Business Strategy):** Designed a data-driven business solution for store sourcing and inventory management based on model outputs.
+**Applied Machine Learning & AI Models**  
+[Classification Projects](https://github.com/asansal/ML-data-cleaning-and-classification-projects) | [Road Accident Prediction](https://github.com/asansal/road-accident-risk-prediction)  
+A curated collection of applied ML projects focusing on predictive accuracy and robust data preprocessing. This includes building classification models (XGBoost, Random Forest), deep feature engineering, and cleaning complex datasets (e.g., BMW Dataset, MS Malware Prediction).
 
 ---
 
-**2. Other ML & AI Projects**
+### 🔬 Scientific Research & Bioinformatics
 
-[ML Data Cleaning and Clasification Projects](https://github.com/asansal/ML-data-cleaning-and-classification-projects)
+Prior to focusing fully on business analytics and AI, I worked as a Bioinformatics Researcher at the CBM - Severo Ochoa (Madrid). My research centered on transcriptomics and proteogenomics in *Leishmania* species. 
 
-[Road Accident Prediction - Kaggle](https://github.com/asansal/road-accident-risk-prediction)
-
-[ChatBot - Testing](https://github.com/asansal/Chatbot_test)
-
-Description: A collection of applied projects focusing on different ML / AI domains, like classification models (XGBoost, Random Forest)m data cleaning, preprocessing, predict outcomes, and feature engineering (e.g., BMW Dataset Cleaning, MS Malware Prediction).
+I was responsible for developing end-to-end ETL pipelines using Python, R, and Bash, running in both local and High-Performance Computing (HPC/Slurm) environments. This work directly contributed to peer-reviewed publications by analyzing RNA-Seq, Ribo-Seq, and ONT data. You can explore the related scripts and workflows in the [CBMSO-L302 repositories](https://github.com/CBMSO-L302).
 
 ---
 
-### 📈 Data Visualization
+### 🛠️ Core Technical Stack
 
-- Dashboards with [Tableau](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes) and Power BI.  
-
----
-
-### 🔬 Research 
-
-As I worked as a Bioinformatics Researcher at the CBM - Severo Ochoa (Madrid), my work was focused on transcriptomics and proteogenomics in *Leishmania* species.
-
-This involved developing ETL pipelines (Python, R, Bash) in both local and HPC environment to analyze RNA-Seq, Ribo-Seq, and ONT data, contributing to various peer-reviewed publications.
-
-You can find related scripts and workflows in the [CBMSO-L302 repositories](https://github.com/CBMSO-L302).  
+- **Programming:** Python (Pandas, Scikit-learn, TensorFlow), R, SQL, Bash.
+- **Machine Learning & AI:** Supervised/Unsupervised Learning, Time Series forecasting, Deep Learning, NLP fundamentals.
+- **Data Engineering & Deployment:** Git, HPC/Slurm environments, Docker and AWS fundamentals, Streamlit.
+- **Business Intelligence & Visualization:** Tableau, Power BI, Matplotlib, Seaborn, R shiny
 
 ---
 
-### 🛠️ Core Competencies
+### 📫 Let's Connect
 
-**Languages**: Python (Pandas, Scikit-learn), R, SQL, Bash
+I am always open to discussing data-driven solutions, AI projects, or new professional opportunities. Feel free to reach out or explore my work through the links below:
 
-**ML/AI**: Supervised / Unsupervised Learning, Time Series, Deep Learning (TensorFlow, Keras)
-
-**Tools & Platforms**: Git, HPC/Slurm, Docker (Fundamentals), AWS (Fundamentals)
-
-**BI & Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-
----
-
-📫 Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador/)  
-- 📩 [asansal@outlook.es](mailto:asansal@outlook.es)  
-- 💻 [GitHub Projects](https://github.com/asansal)
-- 📊 [Tableau portfolio](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes)
+- 🌐 **Website & Chatbot:** [Insert link here]
+- 💼 **LinkedIn:** [alejandro-sanchez-salvador](https://www.linkedin.com/in/alejandro-sanchez-salvador/)
+- 📊 **Tableau Portfolio:** [View my Dashboards](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes)
+- 📩 **Email:** [asansal@outlook.es](mailto:asansal@outlook.es)
