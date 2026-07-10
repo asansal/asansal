@@ -14,9 +14,11 @@ My core focus lies in Python-based ecosystems, transitioning complex data into c
 ### 🚀 Featured Projects
 
 **Interactive Portfolio & AI Chatbot (Streamlit)**  
-[Repository Link](https://github.com/asansal/Personal_Website) | [Live Website](https://asansal.streamlit.app)
+[Repository Link](https://github.com/asansal/Personal_Website) | [Live Website](https://asansal.com)
 
 I developed and deployed a personal portfolio website integrating a custom chatbot built with Streamlit. This project highlights my ability to not only train models but to deploy them into interactive, user-facing applications.
+
+NEW! It is now hosted on my own server, and within my personal domain.
 
 **DSMarket: End-to-End Retail Data Science (Master's Thesis)**  
 [Repository Link](https://github.com/asansal/DS_market_Capstone)  
