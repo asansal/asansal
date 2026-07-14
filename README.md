@@ -52,7 +52,7 @@ I was responsible for developing end-to-end ETL pipelines using Python, R, and B
 
 I am always open to discussing data-driven solutions, AI projects, or new professional opportunities. Feel free to reach out or explore my work through the links below:
 
-- 🌐 **Website & Chatbot:** [https://asansal.streamlit.app](https://asansal.streamlit.app)
+- 🌐 **Website & Chatbot:** [https://asansal.streamlit.app](https://asansal.com)
 - 💼 **LinkedIn:** [alejandro-sanchez-salvador](https://www.linkedin.com/in/alejandro-sanchez-salvador/)
 - 📊 **Tableau Portfolio:** [View my Dashboards](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes)
 - 📩 **Email:** [asansal@outlook.es](mailto:asansal@outlook.es)
