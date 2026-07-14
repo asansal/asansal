@@ -6,7 +6,7 @@ Welcome to my GitHub profile. I am a Data Scientist with a strong foundation in 
 
 My core focus lies in Python-based ecosystems, transitioning complex data into clean, predictive, and interactive solutions.
 
-🌐 **[Explore my Interactive Portfolio & Streamlit Chatbot](https://asansal.streamlit.app)** — 
+🌐 **[Explore my Interactive Portfolio & Streamlit Chatbot](https://asansal.com)** — 
 *Check out my personal website to interact directly with my custom AI chatbot and see my projects in action.*
 
 ---
