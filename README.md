@@ -8,7 +8,9 @@ I'm looking for **Data Scientist / Data Analyst / ML Engineer** roles, ideally i
 
 
 🌐 [asansal.com](https://asansal.com) — portfolio with an AI assistant that answers questions about my work
-💼 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador) · 📊 [Tableau Public](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes) · 📩 [asansal@outlook.es](mailto:asansal@outlook.es)
+
+💼 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador) 
+📊 [Tableau Public](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes) · 📩 [asansal@outlook.es](mailto:asansal@outlook.es)
 
 ---
 
