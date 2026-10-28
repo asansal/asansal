@@ -1,58 +1,55 @@
-## 👋 Hi, I'm Alejandro
+## Hi, I'm Alejandro 👋
 
-**Data Scientist | Bioinformatician | Data Analyst**
+**Data Scientist · Bioinformatics & AI** — Madrid, Spain
 
-Welcome to my GitHub profile. I am a Data Scientist with a strong foundation in Bioinformatics and Statistical Analysis. Over the past four years, I have worked extensively in rigorous scientific research across international and national environments (such as the Universität Konstanz and CBM-CSIC). I am now leveraging that analytical mindset, problem-solving drive, and technical expertise to build machine learning models, develop AI solutions, and extract actionable business insights.
+I work with data end to end: cleaning and analysis, machine learning models, BI dashboards and LLM applications running in production. Before moving into data science I spent 4+ years in biomedical research at the [CBM Severo Ochoa (CSIC-UAM)](https://www.cbm.uam.es) and Universität Konstanz, building pipelines for terabytes of sequencing data and co-authoring 3 peer-reviewed papers (2 as first author).
 
-My core focus lies in Python-based ecosystems, transitioning complex data into clean, predictive, and interactive solutions.
+I'm looking for **Data Scientist / Data Analyst / ML Engineer** roles, ideally in Pharma, Health and Life Sciences, in Spain or elsewhere in Europe.
 
-🌐 **[Explore my Interactive Portfolio & Streamlit Chatbot](https://asansal.com)** — 
-*Check out my personal website to interact directly with my custom AI chatbot and see my projects in action.*
-
----
-
-### 🚀 Featured Projects
-
-**Interactive Portfolio & AI Chatbot (Streamlit)**  
-[Repository Link](https://github.com/asansal/Personal_Website) | [Live Website](https://asansal.com)
-
-I developed and deployed a personal portfolio website integrating a custom chatbot built with Streamlit. This project highlights my ability to not only train models but to deploy them into interactive, user-facing applications.
-
-NEW! It is now hosted on my own server, and within my personal domain.
-
-**DSMarket: End-to-End Retail Data Science (Master's Thesis)**  
-[Repository Link](https://github.com/asansal/DS_market_Capstone)  
-
-A comprehensive project managing the full data lifecycle for a retail chain. Instead of isolated tasks, I handled everything from data ingestion and exploratory analysis (Power BI) to unsupervised clustering (K-Means) for product segmentation. The final phase involved developing and validating Time Series models to forecast regional sales, culminating in a data-driven strategy for inventory management.
-
-**Applied Machine Learning & AI Models**  
-[Classification Projects](https://github.com/asansal/ML-data-cleaning-and-classification-projects) | [Road Accident Prediction](https://github.com/asansal/road-accident-risk-prediction)  
-A curated collection of applied ML projects focusing on predictive accuracy and robust data preprocessing. This includes building classification models (XGBoost, Random Forest), deep feature engineering, and cleaning complex datasets (e.g., BMW Dataset, MS Malware Prediction).
+🌐 [asansal.com](https://asansal.com) — portfolio with an AI assistant that answers questions about my work
+💼 [LinkedIn](https://www.linkedin.com/in/alejandro-sanchez-salvador) · 📊 [Tableau Public](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes) · 📩 [asansal@outlook.es](mailto:asansal@outlook.es)
 
 ---
 
-### 🔬 Scientific Research & Bioinformatics
+### Featured projects
 
-Prior to focusing fully on business analytics and AI, I worked as a Bioinformatics Researcher at the CBM - Severo Ochoa (Madrid). My research centered on transcriptomics and proteogenomics in *Leishmania* species. 
+**[DSMarket — Retail demand forecasting](https://github.com/asansal/DS_market_Capstone)** · Master's capstone
+Weekly demand forecasts for 30,000 item-store series (3,049 products, 10 stores, 6.7M rows). Feature engineering with price, calendar, weather and events; K-Means product segmentation; Lasso vs XGBoost with time-series cross-validation and Optuna. The final model beats a naive last-week baseline by **10% (RMSE)** and **13% (WMAPE)** on a held-out 9-week test set. Results delivered in Power BI.
+`Python` `scikit-learn` `XGBoost` `Optuna` `Power BI`
 
-I was responsible for developing end-to-end ETL pipelines using Python, R, and Bash, running in both local and High-Performance Computing (HPC/Slurm) environments. This work directly contributed to peer-reviewed publications by analyzing RNA-Seq, Ribo-Seq, and ONT data. You can explore the related scripts and workflows in the [CBMSO-L302 repositories](https://github.com/CBMSO-L302).
+**[Sextant IA — LLM travel planner](https://sextantia.eu)** · Live in production
+Multi-stage LLM pipeline that shortlists places from the traveller's preferences, builds a day-by-day plan and generates each day in parallel with cultural context. Django app on Oracle Cloud behind Nginx, deployed automatically with GitHub Actions.
+`Python` `Django` `LLM APIs` `Oracle Cloud` `CI/CD`
+
+**[Clinical trial dashboard — R Shiny](https://asansal.shinyapps.io/Clinical_Data_Dashboard/)** · Live demo
+Interactive dashboard for a simulated 500-patient, three-arm trial: treatment and gender filters, KPI boxes and plotly charts of biomarker response, built with Shiny modules.
+`R` `Shiny` `ggplot2` `plotly`
+
+**[Portfolio website with AI assistant](https://github.com/asansal/Personal_Website)** · [asansal.com](https://asansal.com)
+Multilingual Streamlit app (EN/ES/DE) with a Google Gemini chatbot that answers from my own knowledge base. Self-hosted on a Linux server on Oracle Cloud, deployed on every push with GitHub Actions over SSH.
+`Python` `Streamlit` `Gemini API` `GitHub Actions` `Linux`
+
+**Applied machine learning**
+[Classification projects](https://github.com/asansal/ML-data-cleaning-and-classification-projects) · [Road accident risk prediction](https://github.com/asansal/road-accident-risk-prediction)
+Data cleaning, feature engineering and classification models (XGBoost, Random Forest) on real-world datasets.
 
 ---
 
-### 🛠️ Core Technical Stack
+### Bioinformatics & research
 
-- **Programming:** Python (Pandas, Scikit-learn, TensorFlow), R, SQL, Bash.
-- **Machine Learning & AI:** Supervised/Unsupervised Learning, Time Series forecasting, Deep Learning, NLP fundamentals.
-- **Data Engineering & Deployment:** Git, HPC/Slurm environments, Docker and AWS fundamentals, Streamlit.
-- **Business Intelligence & Visualization:** Tableau, Power BI, Matplotlib, Seaborn, R shiny
+At the CBM Severo Ochoa I built Python, R and Bash pipelines for Ribo-Seq, RNA-seq, WGS and proteomics data on local and HPC (Slurm) environments, including differential expression (DESeq2), genome assembly and proteogenomics on the *Leishmania donovani* genome. Scripts and workflows: [CBMSO-L302](https://github.com/CBMSO-L302).
+
+Publications:
+- [Refinement of *Leishmania donovani* genome annotations with Ribo-Seq data](https://doi.org/10.3390/genes14081637) — *Genes*, 2023 (first author)
+- [A proteogenomic approach to unravel new proteins in the *L. donovani* genome](https://doi.org/10.3390/genes15060775) — *Genes*, 2024
+- [Preferential insertion of ribonucleotides by bacterial NHEJ PolDom](https://doi.org/10.3390/biom10020203) — *Biomolecules*, 2020 (first author)
 
 ---
 
-### 📫 Let's Connect
+### Tech stack
 
-I am always open to discussing data-driven solutions, AI projects, or new professional opportunities. Feel free to reach out or explore my work through the links below:
-
-- 🌐 **Website & Chatbot:** [https://asansal.com](https://asansal.com)
-- 💼 **LinkedIn:** [alejandro-sanchez-salvador](https://www.linkedin.com/in/alejandro-sanchez-salvador/)
-- 📊 **Tableau Portfolio:** [View my Dashboards](https://public.tableau.com/app/profile/alejandro.sanchez2642/vizzes)
-- 📩 **Email:** [asansal@outlook.es](mailto:asansal@outlook.es)
+- **Languages:** Python, R, SQL, Bash
+- **ML & AI:** scikit-learn, XGBoost, PyTorch, TensorFlow/Keras, time-series forecasting, clustering, LLM APIs, prompt engineering
+- **BI & visualisation:** Power BI, Tableau, R Shiny, Streamlit, Matplotlib, Seaborn, ggplot2
+- **Bioinformatics:** NGS (RNA-seq, Ribo-Seq, WGS), DESeq2, Trinity, BUSCO, HPC (Slurm, GNU Parallel)
+- **Engineering:** Git, Docker, GitHub Actions (CI/CD), Linux servers, Oracle Cloud, Nginx, Django
